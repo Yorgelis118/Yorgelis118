@@ -2,12 +2,12 @@
 
 ---
 
-## 📫 Contacto
-
 - 💼 GitHub: [@Yorgelis118](https://github.com/Yorgelis118)
 - ✉️ Email: `yorgelisr12345@gmail.com`
 
 ---
+
+## ⭐ Sobre mí
 
 ¡Hola! Soy una desarrolladora con enfoque en backend y bases de datos. Me especializo en diseñar, estructurar y optimizar bases de datos relacionales y no relacionales, trabajando principalmente con MySQL y MongoDB. Disfruto crear sistemas sólidos y eficientes, integrando Django para ofrecer soluciones completas, seguras y bien organizadas.
 
