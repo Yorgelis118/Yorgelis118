@@ -42,9 +42,7 @@
 
 ## 📂 Proyectos Destacados
 
-- 🎨 **Sistema de gestión web** — CRUD completo usando PHP, Laravel y MySQL.
-- 🛒 **E-commerce básico** — Desarrollado con Django y MongoDB para la gestión de productos y pedidos.
-- 🧾 **Gestor de facturas** — Frontend en HTML, CSS y JS, con backend en Django y exportación en PDF.
+- 🍰 **[Fluffy Bakery](https://github.com/A-G732/FluffyBakery)** — Tienda e inventario online para una pastelería, desarrollada con SCSS, PHP y HTML. El proyecto está en evolución y se está planificando su migración a Django para aprovechar su robustez en el backend.
 
 ---
 
